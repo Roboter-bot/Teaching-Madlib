@@ -3,11 +3,11 @@
 # if you need a refresher of what a madlib is, go here: https://www.madlibs.com/MadLibs-Teachers-Guide-nocrops.pdf
 
 number_between_1_and_9000 = 0 # assign some number or string at the end of each of these lines
-adjective_1 = ""
-noun_1 = ""
-famous_person = ""
-adjective_2 = ""
-very_large_number = 0
-noun_2 = ""
-adjective_2 = ""
-large_store = ""
+adjective_1 = "bad"
+noun_1 = "gong"
+famous_person = "Andrew Gong"
+adjective_2 = "big"
+very_large_number = 1
+noun_2 = "backpack"
+adjective_2 = "sputid"
+large_store = "azamon"
